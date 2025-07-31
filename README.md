@@ -10,7 +10,7 @@ Lately, I’ve been exploring cloud services (mostly Azure) and learning how dif
 - Azure BlobTrigger Function that pushes events to Event Grid and downstream services
 - A Spring Boot app wiring multiple Azure services, including custom Micrometer metrics to Azure Monitor
 
-🧪 These projects were used as part of my prep for [AZ-204](https://www.credly.com/) and [DP-420](https://www.credly.com/) Azure certifications (repos are private — mostly hands-on experimentation).
+🧪 These projects were used as part of my prep for [**AZ-204**](https://learn.microsoft.com/en-us/users/georgiakonstantinou-3043/credentials/4866145855f2499b) and [**DP-420**](https://learn.microsoft.com/en-gb/users/georgiakonstantinou-3043/credentials/f89c46899619460a) Azure certifications (repos are private — mostly hands-on experimentation).
 
 📚 I also built a Bookshelf app originally inspired by GCP training labs:
 - Started in Python & Flask, then rebuilt in Java (Spring Boot + Thymeleaf)
