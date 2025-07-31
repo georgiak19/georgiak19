@@ -7,7 +7,7 @@ Lately, I’ve been exploring cloud services (mostly Azure) and learning how dif
 🔧 I’ve been experimenting with:
 - A cloud-native text editor backend (Java Spring Boot) using CosmosDB / DynamoDB
 - A simple Flask UI supporting login with Entra ID
-- Azure BlobTrigger Function that pushes events to Event Grid and downstream services
+- Azure Functions + Event Grid integration
 - A Spring Boot app wiring multiple Azure services, including custom Micrometer metrics to Azure Monitor
 
 🧪 These projects were used as part of my prep for [**AZ-204**](https://learn.microsoft.com/en-us/users/georgiakonstantinou-3043/credentials/4866145855f2499b) and [**DP-420**](https://learn.microsoft.com/en-gb/users/georgiakonstantinou-3043/credentials/f89c46899619460a) Azure certifications (repos are private — mostly hands-on experimentation).
