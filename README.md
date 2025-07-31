@@ -22,4 +22,4 @@ Lately, I’ve been exploring cloud services (mostly Azure) and learning how dif
 - Prompt tuning and multi-turn interactions
 - Exploring cloud-native service design patterns
 
-🔗 Feel free to connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/georgia-konstantinou-9a367247/)) or reach out if you’re working on similar things!
+🔗 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/georgia-konstantinou-9a367247/) or reach out if you’re working on similar things!
