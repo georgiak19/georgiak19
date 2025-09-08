@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Georgia
 
-I'm a backend engineer who enjoys working with Java and building systems that move, process, and search data — especially in cloud or distributed environments.
+I'm a backend engineer who enjoys working with Java and building systems that move, process, and search data - especially in cloud or distributed environments.
 
 Lately, I’ve been exploring cloud services (mostly Azure) and learning how different tools like storage, search, and monitoring can be wired together to build real-world systems. Creative by nature, my long-term goal is to grow into system architecture and help shape how large systems are designed and migrated to the cloud.
 
